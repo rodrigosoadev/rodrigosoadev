@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Rodrigo Soares👋
 
-- 🔭 Hoje procuro vaga para front-end
+- 🔭 Hoje procuro vaga de Desenvolvimento Full Stack
 - 🌱 Estudando tecnologias como ReactJs, Typescript, banco de dados etc..
-- 👩‍💻 Cursando Bacharelado em Engenharia de software
+- 👩‍💻 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 📫 contate-me no email: meuemail.rodrigosoadev@gmail.com
 - 😄 Pronome: ele/dele
 

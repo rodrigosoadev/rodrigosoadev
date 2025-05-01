@@ -2,7 +2,7 @@
 
 - 🔭 Hoje procuro vaga de Desenvolvimento Full Stack
 - 🌱 Estudando tecnologias como ReactJs, Typescript, banco de dados etc..
-- 👩‍💻 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 👩‍💻 Cursando Tecnólogo em Tecnologia, Análise e Desenvolvimento de Sistemas
 - 📫 contate-me no email: meuemail.rodrigosoadev@gmail.com
 - 😄 Pronome: ele/dele
 

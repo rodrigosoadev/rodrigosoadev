@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rodrigo Soares👋
+### Olá! Eu sou o Rodrigo Soares👋 
 
 - 🔭 Hoje procuro vaga de Desenvolvimento Full Stack
 - 🌱 Estudando tecnologias como ReactJs, Typescript, banco de dados etc..
